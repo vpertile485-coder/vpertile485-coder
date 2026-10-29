@@ -18,5 +18,28 @@ knowledge.
 - 🌱 Building my technical portfolio step by step.
 - 🌎 Interested in international technology opportunities.
 !--
+
+## 🛠️ Technologies
+### Currently Learning
+- Python
+- Git and GitHub
+
+### Next Steps
+- SQL
+- REST APIs
+- Automation
+- Cloud fundamentals
+  
+## 🚀 Projects
+Projects will be added here as I complete and document them.
+
+## 📚 Current Focus
+- Improving Python problem-solving skills.
+- Building independent projects.
+- Learning version control with Git.
+- Applying technology to practical problems.
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/valentina-pertile-08b459349?utm_source=share_via&utm_content=profile&utm_medium=member_ios 
 **vpertile485-coder/vpertile485-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
